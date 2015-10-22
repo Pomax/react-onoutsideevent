@@ -1,0 +1,27 @@
+{
+  "name": "react-onoutsideevent",
+  "version": "1.0.0",
+  "description": "An React component for dealing with 'outside events' (such as touch up or mouse click)",
+  "main": "index.js",
+  "homepage": "https://github.com/Pomax/react-onoutsideevent",
+  "authors": [
+    "Pomax <pomax@nihongoresources.com>"
+  ],
+  "keywords": [
+    "react",
+    "event"
+    "ontouch"
+    "onclick",
+    "outside",
+    "onclickoutside"
+    "onoutsideevent"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pomax/react-onoutsideevent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pomax/react-onoutsideevent/issues"
+  }
+}
